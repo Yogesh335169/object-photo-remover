@@ -1,0 +1,5 @@
+{
+  "name": "minimax object remover AI",
+  "description": "An AI-powered web application to remove objects, deblur, and enhance photos in one click. Features a futuristic UI with smooth animations, a before/after comparison slider, and HD download capabilities.",
+  "requestFramePermissions": []
+}
